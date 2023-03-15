@@ -1,0 +1,8 @@
+A:\programmirovanie\С#Root\Симулятор Компьютерного клуба\Симулятор Компьютерного клуба\bin\Debug\Симулятор Компьютерного клуба.exe.config
+A:\programmirovanie\С#Root\Симулятор Компьютерного клуба\Симулятор Компьютерного клуба\bin\Debug\Симулятор Компьютерного клуба.exe
+A:\programmirovanie\С#Root\Симулятор Компьютерного клуба\Симулятор Компьютерного клуба\bin\Debug\Симулятор Компьютерного клуба.pdb
+A:\programmirovanie\С#Root\Симулятор Компьютерного клуба\Симулятор Компьютерного клуба\obj\Debug\Симулятор Компьютерного клуба.csproj.AssemblyReference.cache
+A:\programmirovanie\С#Root\Симулятор Компьютерного клуба\Симулятор Компьютерного клуба\obj\Debug\Симулятор Компьютерного клуба.csproj.SuggestedBindingRedirects.cache
+A:\programmirovanie\С#Root\Симулятор Компьютерного клуба\Симулятор Компьютерного клуба\obj\Debug\Симулятор Компьютерного клуба.csproj.CoreCompileInputs.cache
+A:\programmirovanie\С#Root\Симулятор Компьютерного клуба\Симулятор Компьютерного клуба\obj\Debug\Симулятор Компьютерного клуба.exe
+A:\programmirovanie\С#Root\Симулятор Компьютерного клуба\Симулятор Компьютерного клуба\obj\Debug\Симулятор Компьютерного клуба.pdb
